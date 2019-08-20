@@ -1,7 +1,7 @@
 {
-  "name": "【杯酒】巨冥湾/饕餮洞/荒血路（8.19更新）",
+  "name": "【杯酒】巨冥湾/饕餮洞/荒血路（8.20修复因更新导致BUG）",
   "author": "言无瑕",
-  "version": "20190819",
+  "version": "20190820",
   "data_url": "./data.jx3dat",
   "about": "../README.md"
 }
